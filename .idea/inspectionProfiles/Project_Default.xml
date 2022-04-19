@@ -1,0 +1,73 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyAbstractClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAssignmentToLoopOrWithParameterInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassHasNoInitInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyComparisonWithNoneInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.11" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyDictCreationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyDocstringTypesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyGlobalUndefinedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyIncorrectDocstringInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyInterpreterInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Scratches and Consoles" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="PyListCreationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMethodParametersInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyNestedDecoratorsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyNoneFunctionAssignmentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="awsretry" />
+            <item index="1" class="java.lang.String" itemvalue="boto3" />
+            <item index="2" class="java.lang.String" itemvalue="paramiko" />
+            <item index="3" class="java.lang.String" itemvalue="botocore" />
+            <item index="4" class="java.lang.String" itemvalue="patool" />
+            <item index="5" class="java.lang.String" itemvalue="s3fs" />
+            <item index="6" class="java.lang.String" itemvalue="pexpect" />
+            <item index="7" class="java.lang.String" itemvalue="troposphere" />
+            <item index="8" class="java.lang.String" itemvalue="docker" />
+            <item index="9" class="java.lang.String" itemvalue="jaraco.docker" />
+            <item index="10" class="java.lang.String" itemvalue="pandas" />
+            <item index="11" class="java.lang.String" itemvalue="scipy" />
+            <item index="12" class="java.lang.String" itemvalue="ast" />
+            <item index="13" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="14" class="java.lang.String" itemvalue="psycopg2-binary" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyProtectedMemberInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyRelativeImportInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyShadowingNamesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PySingleQuotedDocstringInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnusedLocalInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
